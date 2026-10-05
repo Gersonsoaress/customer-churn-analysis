@@ -51,6 +51,29 @@ Os principais fatores associados a maiores taxas de churn foram:
 Os resultados indicam associações entre essas características e o cancelamento, não necessariamente relações de causa e efeito.
 
 
+## Visualizações
+
+### Distribuição de Churn
+
+![Distribuição de Churn](images/distribuicao_churn.png)
+
+### Taxa de Churn por Tipo de Contrato
+
+![Taxa de Churn por Tipo de Contrato](images/churn_por_contrato.png)
+
+### Taxa de Churn por Tempo de Permanência
+
+![Taxa de Churn por Tempo de Permanência](images/churn_por_tempo_permanencia.png)
+
+### Taxa de Churn por Tipo de Serviço de Internet
+
+![Taxa de Churn por Serviço de Internet](images/churn_por_servico_internet.png)
+
+### Taxa de Churn por Forma de Pagamento
+
+![Taxa de Churn por Forma de Pagamento](images/churn_por_forma_pagamento.png)
+
+
 
 ## Recomendações de Negócio
 
